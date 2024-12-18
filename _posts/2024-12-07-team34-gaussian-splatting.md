@@ -8,6 +8,11 @@ date: 2024-12-07
 
 > Gaussian Splatting is a novel 3D reconstruction algorithm, radically improving the generation time compared to NeRFs using 3D Gaussians. In this project, we review its implementation as well as several applications of the more capable 3D reconstruction algorithm.
 
+<!--more-->
+{: class="table-of-content"}
+* TOC
+{:toc}
+
 ## Problem Statement
 
 Our problem statement is the following: given a set of sparse images, how can we construct a corresponding 3D scene? [1]

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: FaceNet - Team 10
+title: FaceNet 
 author: Aarush Maddela, Ben Guo, Sacaar Jain
 date: 2024-12-13
 ---

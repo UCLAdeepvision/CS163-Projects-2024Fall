@@ -1,3 +1,18 @@
+---
+layout: post
+comments: true
+title: Visual Question Answering
+author: Rohan Sharma,Arnav Marda, Stanley Wei
+date: 2024-12-12
+---
+
+
+> (Open-answer) visual question answering (VQA** for short) is a computer vision task to: given an image and a natural-language question about the image, return an accurate and human-like natural-language response to the query using information in the image. Formally, the open-answer VQA task is: given an image-question pair `(I, q)`, output a sequence of characters `s` (of arbitrary length).
+
+<!--more-->
+{: class="table-of-content"}
+* TOC
+{:toc}
 # Visual Question Answering
 
 ### Table of Contents

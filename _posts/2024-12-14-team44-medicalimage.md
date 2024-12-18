@@ -6,6 +6,10 @@ author: Jeffrey Huang, James Wang, James Zhang, Aaron Zhao
 date: 2024-12-14
 ---
 
+> Medical image segmentation is a process that involves dividing a medical image into multiple distinct Regions of Interest corresponding to different organs, tissues, or pathological areas automatically. This technique allows healthcare professionals to interpret and analyze medical images like X-rays, ultrasounds, and CT scans much more efficiently than having to label areas by hand. 
+
+
+<!--more-->
 {: class="table-of-contents"}
 * TOC
 {:toc}

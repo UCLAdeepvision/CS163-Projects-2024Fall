@@ -9,6 +9,11 @@ date: 2024-12-13
 
 > This project explores advanced vehicle trajectory prediction methods, a critical component for safe and efficient autonomous driving. By analyzing models like STA-LSTM, Convolutional Social Pooling, and CRAT-Pred, it highlights their unique approaches to handling spatial and temporal complexities, as well as their applications in structured and unstructured traffic environments.
 
+<!--more-->
+{: class="table-of-content"}
+* TOC
+{:toc}
+
 ## Introduction
 
 ### Motivation

@@ -5,15 +5,14 @@ title: Hand Pose Fugl Meyer
 author: Ryan Yang, Minh Trinh, Yash Goyal, Seungmin Jung
 date: 2024-12-13
 ---
-
-# Advancements in Hand Pose Estimation with a goal of automating Fugl-Meyer Assessment
-
 > We explore 3 deep-learning based approaches to hand pose estimation and build a proof-of-concept RNN algorithm that uses hand pose estimation for an important application: Fugl-Meyer Assessment evaluation.
 
 <!--more-->
 {: class="table-of-content"}
 * TOC
 {:toc}
+
+# Advancements in Hand Pose Estimation with a goal of automating Fugl-Meyer Assessment
 
 # Introduction
 

@@ -1,3 +1,19 @@
+---
+layout: post
+comments: true
+title: Point Cloud
+author: Om Patel, Suyeon Shin, Harkanwar Singh, Emmett Cocke
+date: 2024-12-12
+---
+
+
+> PointNet introduced a groundbreaking approach to processing 3D point cloud data directly, bypassing the need for voxelization or other preprocessing techniques. Its core innovation lies in its ability to handle unordered point sets while maintaining permutation invariance and learning robust features for tasks such as classification and segmentation.
+
+
+<!--more-->
+{: class="table-of-content"}
+* TOC
+{:toc}
 # An Overview of Point Cloud Data and Models
 
 ## Table of Contents

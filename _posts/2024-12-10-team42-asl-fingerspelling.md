@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Team 42 - ASL Fingerspelling
+title: ASL Fingerspelling
 author: Jeffrey Kwan, Selina Song, Ishita Ghosh, Jason Cheng
 date: 2024-12-10
 ---
